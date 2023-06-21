@@ -1,3 +1,6 @@
+Same Text
+Add new text in file.
+
 Hello
 Kristina added some text
 Test file
